@@ -62,9 +62,9 @@ header .logo_five {
   }
 }
 
-@media (max-width: 576px;) { 
+@media (max-width: 576px) { 
   body {
-    width: 556px;
+    width: 550px;
   }
   header {
     height: 80px;
@@ -103,7 +103,7 @@ nav#menu a {
   color: #ffffff;
 }
 
-@media (max-width: 576px;) { 
+@media (max-width: 576px) { 
   nav#menu ul {
     line-height: 80px;
   }
@@ -153,7 +153,7 @@ article h1 {
   margin-top: 0px;
 }
 
-@media (max-width: 576px;) { 
+@media (max-width: 576px) { 
   content {
     width: unset;
   }
@@ -200,7 +200,7 @@ aside ul {
   }
 }
 
-@media (max-width: 576px;) {
+@media (max-width: 576px) {
   aside {
     display: none;
   }
